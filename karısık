@@ -1,0 +1,51 @@
+ad = str("sude")
+print (ad)
+
+
+
+x, y, z = "bilgisayar" , "telefon", "kağıt"
+print (y)
+
+
+
+eşya = ["bilgisayar" , "telefon" , "kağıt"]
+a,b,c = eşya
+print (c)
+
+
+x=5
+print(type(x))
+
+
+
+b = "Hello World!"
+print(b[:5])
+
+
+
+a = " Hello World! "
+print(a.strip())
+
+
+
+x = 5
+y = "sude"
+print(x, y)
+
+
+
+x = "güzeldir"
+def myfunc():
+  print("Python " + x)
+myfunc()
+
+
+b = "Hello, World!"
+print(b[2:5])
+
+
+
+print ("lütfen isminizi giriniz")
+ad = str(input())
+
+
